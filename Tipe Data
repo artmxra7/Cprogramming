@@ -1,0 +1,23 @@
+Tipe Data
+Di C ada beberapa tipe data dasar yang wajib diingat :
+
+short
+int
+long
+float
+double
+char
+array
+pointer
+string
+
+Ada juga modifier seperti unsigned yang dapat mengubah rentang default dari tipe data angka bulat dan angka koma.
+
+Untuk formatting pada printf(), kamu dapat menggunakan beberapa tanda berikut:
+
+%d untuk tipe data int dan short
+%li untuk tipe data long
+%f untuk tipe data float dan double
+%c untuk tipe data char
+%s untuk tipe data string
+%p untuk tipe data pointer

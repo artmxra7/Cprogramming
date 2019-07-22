@@ -2,7 +2,7 @@
 
 int main () {
 
-	int x = 20;
+	int x = 90;
 	printf("nilai kamu saat ini %d \n", x);
 	if (x > 75)
 	{
